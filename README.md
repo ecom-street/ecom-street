@@ -17,9 +17,9 @@
       - SEO/SMO
 - 💞️ I’m looking to collaborate on the above services
 - 📫 How to reach us:
-      - Email: <a href="mailto:info@ecommstreet.com">info@ecommstreet.com</a>
-      - Call us: +1 (773) 368-0620
-      - Visit: <a href="https://www.ecomstreet.com/">eComStreet</a>
+- Email: <a href="mailto:info@ecommstreet.com">info@ecommstreet.com</a>
+- Call us: +1 (773) 368-0620
+- Visit: <a href="https://www.ecomstreet.com/">eComStreet</a>
 
 <!---
 ecom-street/ecom-street is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
